@@ -1,0 +1,5 @@
+D:\C#\SpeedRadarTopCoder\SpeedRadarTopCoder\bin\Debug\SpeedRadarTopCoder.exe
+D:\C#\SpeedRadarTopCoder\SpeedRadarTopCoder\bin\Debug\SpeedRadarTopCoder.pdb
+D:\C#\SpeedRadarTopCoder\SpeedRadarTopCoder\obj\Debug\ResolveAssemblyReference.cache
+D:\C#\SpeedRadarTopCoder\SpeedRadarTopCoder\obj\Debug\SpeedRadarTopCoder.exe
+D:\C#\SpeedRadarTopCoder\SpeedRadarTopCoder\obj\Debug\SpeedRadarTopCoder.pdb
